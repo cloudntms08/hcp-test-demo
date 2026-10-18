@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "rg" {
   location = "westus"
   tags = {
     env   = "dev"
-    owner = "ayushi"
+    owner = "ayushintms"
   }
 }
 
